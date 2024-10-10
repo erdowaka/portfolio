@@ -1,0 +1,502 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "ErdoWakaSeptyano",
+    "label": "Senior Full Stack Developer",
+    "image": "/avatar.png",
+    "email": "erdowaka13@gmail.com",
+    "url": "https://www.gcxstudio.cn",
+    "summary": "Born in 1998, I primarily work with Php and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "theme": "red",
+    "location": {
+      "address": "Jln.Intisari Kost Merah",
+      "city": "Pekanbaru",
+      "countryCode": "ID",
+      "region": "Indonesia"
+    },
+    "profiles": [
+      {
+        "network": "Bilibili",
+        "icon": "ri:bilibili-line",
+        "username": "-waka-",
+        "url": "https://www.bilibili.tv/id/space/1971685054"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "erdowaka",
+        "url": "https://github.com/erdowaka"
+      }
+    ]
+  },
+  "images": {
+    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "list": [
+      {
+        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
+        "alt": "",
+        "desc": ""
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Politeknik Caltex Riau",
+      "url": "https://pcr.ac.id/",
+      "area": "Bachelor's degree in informatics engineering",
+      "studyType": "Full-time student",
+      "startDate": "2017-9-01",
+      "endDate": "2021-9-31"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Problem Solving",
+      "date": "2022-11-12",
+      "url": "https://www.hackerrank.com/certificates/58c4e5d5a768",
+      "issuer": "HackerRank"
+    },
+    {
+      "name": "Node.js",
+      "date": "2022-11-15",
+      "url": "https://www.hackerrank.com/certificates/3903235aa9c5",
+      "issuer": "HackerRank"
+    },
+    {
+      "name": "JavaScript ",
+      "date": "2022-11-15",
+      "url": "https://www.hackerrank.com/certificates/4a8aee1849e0",
+      "issuer": "HackerRank"
+    },
+    {
+      "name": "SQL",
+      "date": "2022-11-15",
+      "url": "https://www.hackerrank.com/certificates/1cdab37bf39a",
+      "issuer": "HackerRank"
+    },
+    {
+      "name": "React",
+      "date": "2022-11-15",
+      "url": "https://www.hackerrank.com/certificates/dca97b462647",
+      "issuer": "HackerRank"
+    }
+  ],
+  "work": [
+    {
+      "name": "Biro Administrasi Pembangunan",
+      "position": "Full-stack Developer",
+      "location_type": "On Site",
+      "location": "ID",
+      "url": "https://github.com/erdowaka",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "summary": "Developing high-availability full-stack projects, For Reporting APBD and APBN Prov Riau.",
+      "highlights": [
+        "Enhanced internal workflow efficiency by 30%."
+      ],
+      "responsibilities": [
+        "Developed and maintained backend services using PHP and JavaScript."
+      ],
+      "achievements": [
+        "Implemented a Framework System With Native PHP for Scalable Project."
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github"
+      }
+    },
+    {
+      "name": "Inspektorat",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "ID",
+      "url": "https://simplakat.riau.go.id",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "summary": "maintenance systems.",
+      "highlights": [
+        "Completed 95% of project content."
+      ],
+      "responsibilities": [
+        "Developed complete pages.",
+        "Integrated user-facing elements with server-side logic."
+      ],
+      "achievements": [
+        "Ensured smooth project execution."
+      ],
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Node": "ri:nodejs-line",
+        "SQL": "simple-icons:mysql",
+        "React": "mdi:react",
+        "GitHub": "mdi:github",
+        "Git": "mdi:git"
+      }
+    },
+    {
+      "name": "Dinas Imigrasi Kab.Tembilahan",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "ID",
+      "url": "https://imigrasitembilahan.com/informasi/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-03",
+      "summary": "Desing and Apply to Web",
+      "highlights": [
+        "Completed 95% of project content."
+      ],
+      "responsibilities": [
+        "Developed complete pages.",
+        "Integrated user-facing elements with server-side logic."
+      ],
+      "achievements": [
+        "Ensured smooth project execution."
+      ],
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Node": "ri:nodejs-line",
+        "SQL": "simple-icons:mysql",
+        "GitHub": "mdi:github",
+        "Git": "mdi:git"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Vue",
+      "icon": "mdi:vuejs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "icon": "simple-icons:nestjs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "IOC"
+      ]
+    },
+    {
+      "name": "Vite",
+      "icon": "simple-icons:vite",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Build Tool"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "icon": "ri:wordpress-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "PHP",
+        "Fullstack",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Golang",
+      "icon": "simple-icons:go",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Cloud Service"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "simple-icons:php",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "icon": "simple-icons:nginx",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Web Server"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "Netlify",
+      "icon": "simple-icons:netlify",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "Cloudflare Edge Functions",
+      "icon": "simple-icons:cloudflare",
+      "level": "Expert",
+      "keywords": [
+        "Serverless",
+        "Edge Computing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesia",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain",
+        "New Stack"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erdo Waka Septyano",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Informasi Imigrasi Tembilahan",
+      "image": {
+        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "position": "container",
+        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+      },
+      "isActive": true,
+      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "highlights": [
+        "🎯 Privacy-friendly, no registration required, out-of-the-box",
+        "✨ Support saving passwords and retrieving email addresses",
+        "😄 Support multiple domain name suffixes",
+        "🚀 100% open source, fully based on Cloudflare."
+      ],
+      "url": "https://imigrasitembilahan.com/informasi/",
+      "github": "https://imigrasitembilahan.com/informasi/"
+    },
+    {
+      "name": "Riddle Town Hunt 2",
+      "image": {
+        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "highlights": [
+        "👌 More than 1000 people participated, system runs normally",
+        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
+        "😊 Windows-like interface",
+        "💕 Based on Astro"
+      ],
+      "url": "https://rth2.gcxstudio.cn/"
+    }
+  ]
+}
